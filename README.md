@@ -16,11 +16,12 @@ Analyze , perform EDA , and visualizaions to understand customer churn problems 
 # Technologies Used
 
 Jupyter Notebook: For Making Dashboard and Visuals.
+
 Python: for EDA nd data wrangling
 
 # Sources
 ### Dataset:
-Sample -Skip to Main
+Sample -
 Customer Churn.csv [Download Here](https://microsoft.com)
 
 ### Solution:
